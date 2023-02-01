@@ -8,3 +8,6 @@ Pseudocode:
 4. Create one hot encoded (X, Y) matrices 
 5. Train a neural network
 6. Extract the weights from the input layer
+
+![alt text](https://github.com/JuliaWieczorek/Word2Vec/blob/master/Figure_1.png?raw=true)
+Visualization of the embeddings
